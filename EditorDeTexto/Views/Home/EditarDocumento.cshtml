@@ -1,0 +1,27 @@
+@model Documento
+
+<h2 class="text-center" style="color: #333; font-family: 'Roboto', sans-serif;">Arquivo de Texto</h2>
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="EditarDocumento" asp-controller="Home" method="post" style="background: rgba(255, 255, 255, 0.9); border-radius: 15px; padding: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);">
+            <div asp-validation-summary="All" class="text-danger mb-3"></div>
+
+            <input type="hidden" asp-for="Id">
+            <div class="form-group mb-3">
+                <input asp-for="Titulo" class="form-control" placeholder="Digite o título do documento" style="border: 1px solid #ccc; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+            </div> 
+
+            <p style="color: #555;">Criação: @Model.DataCriacao.ToString("dd/MM/yyyy HH:mm") - Útima alteração: @Model.DataAlteracao</p>
+
+            <div class="form-group mb-3">
+                <textarea id="tiny" asp-for="Conteudo" style="width: 100%; height: 60vh; border: 1px solid #ccc; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);" placeholder="Escreva o conteúdo aqui..."></textarea>
+            </div>
+
+            <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+                <input type="submit" class="btn" style="background: linear-gradient(145deg, #4b79a1, #283e51); color: white; border: none; border-radius: 10px; padding: 10px 20px; font-size: 16px; transition: background 0.3s ease;" value="Editar">
+                <a asp-action="RemoverDocumento" asp-route-id="@Model.Id" class="btn" style="background: #dc3545; color: white; border: none; border-radius: 10px; padding: 10px 20px; font-size: 16px; transition: background 0.3s ease;">Remover</a>
+                <a asp-action="Index" class="btn" style="background: #17a2b8; color: white; border: none; border-radius: 10px; padding: 10px 20px; font-size: 16px; transition: background 0.3s ease;">Voltar</a>
+            </div>
+        </form>
+    </div>
+</div>

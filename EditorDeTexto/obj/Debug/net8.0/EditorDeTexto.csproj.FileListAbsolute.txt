@@ -1,0 +1,132 @@
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/appsettings.Development.json
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/appsettings.json
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/EditorDeTexto.staticwebassets.runtime.json
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/EditorDeTexto
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/EditorDeTexto.deps.json
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/EditorDeTexto.runtimeconfig.json
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/EditorDeTexto.dll
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/EditorDeTexto.pdb
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Humanizer.dll
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/MySqlConnector.dll
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.Design.dll
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/System.CodeDom.dll
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.csproj.AssemblyReference.cache
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.AssemblyInfoInputs.cache
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.AssemblyInfo.cs
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.csproj.CoreCompileInputs.cache
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.MvcApplicationPartsAssemblyInfo.cache
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.RazorAssemblyInfo.cache
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.RazorAssemblyInfo.cs
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/staticwebassets.build.json
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/staticwebassets.development.json
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/staticwebassets/msbuild.EditorDeTexto.Microsoft.AspNetCore.StaticWebAssets.props
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/staticwebassets/msbuild.build.EditorDeTexto.props
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.EditorDeTexto.props
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.EditorDeTexto.props
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/staticwebassets.pack.json
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/scopedcss/bundle/EditorDeTexto.styles.css
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/scopedcss/projectbundle/EditorDeTexto.bundle.scp.css
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDe.F9AF382C.Up2Date
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.dll
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/refint/EditorDeTexto.dll
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.pdb
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.genruntimeconfig.cache
+/home/isaacduarte/RiderProjects/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/ref/EditorDeTexto.dll
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/appsettings.Development.json
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/appsettings.json
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/EditorDeTexto.staticwebassets.runtime.json
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/EditorDeTexto
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/EditorDeTexto.deps.json
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/EditorDeTexto.runtimeconfig.json
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/EditorDeTexto.dll
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/EditorDeTexto.pdb
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Humanizer.dll
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/MySqlConnector.dll
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.Design.dll
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/System.CodeDom.dll
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.csproj.AssemblyReference.cache
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.AssemblyInfoInputs.cache
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.AssemblyInfo.cs
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.csproj.CoreCompileInputs.cache
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.MvcApplicationPartsAssemblyInfo.cache
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.RazorAssemblyInfo.cache
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.RazorAssemblyInfo.cs
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/staticwebassets.build.json
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/staticwebassets.development.json
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/staticwebassets/msbuild.EditorDeTexto.Microsoft.AspNetCore.StaticWebAssets.props
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/staticwebassets/msbuild.build.EditorDeTexto.props
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.EditorDeTexto.props
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.EditorDeTexto.props
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/staticwebassets.pack.json
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/scopedcss/bundle/EditorDeTexto.styles.css
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/scopedcss/projectbundle/EditorDeTexto.bundle.scp.css
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDe.F9AF382C.Up2Date
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.dll
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/refint/EditorDeTexto.dll
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.pdb
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.genruntimeconfig.cache
+/home/isaacduarte/Área de Trabalho/EditorText/EditorText-main(1)/EditorText-main/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/ref/EditorDeTexto.dll
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/appsettings.Development.json
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/appsettings.json
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/EditorDeTexto.staticwebassets.runtime.json
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/EditorDeTexto
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/EditorDeTexto.deps.json
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/EditorDeTexto.runtimeconfig.json
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/EditorDeTexto.dll
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/EditorDeTexto.pdb
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Humanizer.dll
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/MySqlConnector.dll
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.Design.dll
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/bin/Debug/net8.0/System.CodeDom.dll
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.csproj.AssemblyReference.cache
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.AssemblyInfoInputs.cache
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.AssemblyInfo.cs
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.csproj.CoreCompileInputs.cache
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.MvcApplicationPartsAssemblyInfo.cache
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.RazorAssemblyInfo.cache
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.RazorAssemblyInfo.cs
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/staticwebassets.build.json
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/staticwebassets.development.json
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/staticwebassets/msbuild.EditorDeTexto.Microsoft.AspNetCore.StaticWebAssets.props
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/staticwebassets/msbuild.build.EditorDeTexto.props
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.EditorDeTexto.props
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.EditorDeTexto.props
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/staticwebassets.pack.json
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/scopedcss/bundle/EditorDeTexto.styles.css
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/scopedcss/projectbundle/EditorDeTexto.bundle.scp.css
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDe.F9AF382C.Up2Date
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.dll
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/refint/EditorDeTexto.dll
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.pdb
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/EditorDeTexto.genruntimeconfig.cache
+/home/isaacduarte/Área de Trabalho/EditorDeTexto/EditorDeTexto/EditorDeTexto/obj/Debug/net8.0/ref/EditorDeTexto.dll
